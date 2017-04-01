@@ -1,1 +1,1 @@
-# liri-node-app
+Liri Node answers all of our questions about Spotify, and OMDB
